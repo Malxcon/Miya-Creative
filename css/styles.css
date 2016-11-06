@@ -21,7 +21,6 @@ body{
 }
 .boton{
 	background: #F6F9E9;
-	width: 94%;
     max-width: 1010px;
     margin-left: 178px;
 	height: 40px;
@@ -30,8 +29,9 @@ body{
 .detalle{
 	text-decoration: none;
 	color: #055858;
-	padding-top: 10px!important;
-	padding-left: 10px ;
+	padding-top: 13px!important;
+	padding-left: 13px ;
+	font-size: 12px;
 }
 #navegacion {
 	background: white;
