@@ -1,31 +1,9 @@
-<<<<<<< HEAD
-=======
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
-
 body{
 	padding: 0px;
 	margin: 0px;
 	font-family: 'Roboto Condensed', sans-serif;
 }
-
-
-
-
-
-
-
-
-
-
->>>>>>> origin/master
-
-
-
-
-
-
-
-<<<<<<< HEAD
 #principal{
 	background-image: url(../img/font.jpg);
 	position: absolute;
@@ -42,11 +20,7 @@ body{
 	width: 94%;
     max-width: 1010px;
     margin: 0 auto;
-=======
-
-
-
-
+}
 #navegacion {
 	
 }
@@ -70,9 +44,7 @@ body{
 #navegacion ul a{
 	text-decoration: none;
 	color: #000;
-	font-size: 20px;
->>>>>>> origin/master
-	
+	font-size: 20px;	
 }
 .new {
 	display: inline-block;
