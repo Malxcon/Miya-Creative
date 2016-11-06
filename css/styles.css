@@ -6,13 +6,9 @@ body{
 }
 #principal{
 	background-image: url(../img/font.jpg);
-	position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 100%;
-    z-index: 10;
-    display: block;
-    backface-visibility: hidden;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 	padding-top: 115px;
     padding-bottom: 148px;
 }
@@ -22,7 +18,7 @@ body{
     margin: 0 auto;
 }
 #navegacion {
-	
+	background: white;
 }
 
 .logo {
