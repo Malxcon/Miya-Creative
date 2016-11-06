@@ -13,14 +13,32 @@ body{
     padding-bottom: 148px;
 }
 .capa{
+	color: aqua;
 	width: 94%;
     max-width: 1010px;
     margin: 0 auto;
 }
+.boton{
+	background: #F6F9E9;
+	width: 94%;
+    max-width: 1010px;
+    margin-left: 178px;
+	height: 40px;
+	width: 120px;
+}
+.detalle{
+	text-decoration: none;
+	color: #055858;
+	padding-top: 10px!important;
+	padding-left: 10px ;
+}
 #navegacion {
 	background: white;
 }
-
+h2{
+	color: antiquewhite;
+	font-size: 40px;
+}
 .logo {
 	height: 50px;
 	float: left;
