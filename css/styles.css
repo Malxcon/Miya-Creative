@@ -1,0 +1,21 @@
+#principal{
+	background-image: url(../img/font.jpg);
+	position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 10;
+    display: block;
+    backface-visibility: hidden;
+	padding-top: 115px;
+    padding-bottom: 148px;
+}
+.capa{
+	width: 94%;
+    max-width: 1010px;
+    margin: 0 auto;
+	
+}
+h5{
+	margin-bottom: 17px;
+}
